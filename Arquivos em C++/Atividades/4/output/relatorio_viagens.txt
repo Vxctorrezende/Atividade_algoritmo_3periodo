@@ -1,0 +1,12 @@
+Relatorio de Viagens - Semana
+--------------------------------------
+Segunda-feira - Km: 0.00, Arrecadado: R$0.00
+Terca-feira - Km: 0.00, Arrecadado: R$0.00
+Quarta-feira - Km: 0.00, Arrecadado: R$0.00
+Quinta-feira - Km: 0.00, Arrecadado: R$0.00
+Sexta-feira - Km: 0.00, Arrecadado: R$0.00
+Sabado - Km: 0.00, Arrecadado: R$0.00
+Domingo - Km: 0.00, Arrecadado: R$0.00
+--------------------------------------
+Total de Km Percorridos: 0.00 km
+Faturamento Total: R$0.00

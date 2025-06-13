@@ -1,0 +1,10 @@
+Utilizamos os objetos ofstream para escrever em arquivos 
+
+Note que podemos utilizar os caracteres \n para efetuar a quebra de linha 
+
+Podemos escrever o valor de variaveis numericas: 29
+
+Podemos também escrever matrizes 12 82023
+
+A frase que você digitou durante a execução do programa foi: Eu sou gostoso
+

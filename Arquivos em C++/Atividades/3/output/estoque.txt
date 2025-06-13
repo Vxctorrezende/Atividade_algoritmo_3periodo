@@ -1,0 +1,6 @@
+Nome, Quantidade, Preco Unitario, Valor Total do Produto
+Victor, 4, R$5.00, R$20.00
+Pastel, 4, R$6.00, R$24.00
+sabao, 3, R$3.00, R$9.00
+
+Valor Total do Estoque: R$53.00
